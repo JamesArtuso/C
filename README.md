@@ -1,2 +1,2 @@
 # C
-Project written in C
+Projects written in C
